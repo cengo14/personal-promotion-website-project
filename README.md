@@ -4,8 +4,10 @@ Bu proje, HTML ve CSS kullanarak oluşturduğum basit bir kişisel tanıtım sit
 
 ## Özellikler
 
-- **Hakkımda:** Kısa bir açıklama ile kim olduğumu anlatan bir bölüm.
 - **Projeler:** Çalıştığım veya üzerinde çalıştığım projeleri listeleyen bir bölüm.
+- **Yazılımlar:** Projelerde kullanılan yazılım dillerini gösteren bir bölüm.
+- **Hakkımda:** Kısa bir açıklama ile kim olduğumu ve başarılarımı anlatan bir bölüm.
+
 - **İletişim Bilgileri:** E-posta adresim veya sosyal medya hesaplarım gibi iletişim bilgilerini içeren bir bölüm.
 
 ## Kurulum
