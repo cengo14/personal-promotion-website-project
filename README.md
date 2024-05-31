@@ -1,6 +1,6 @@
 # Kişisel Tanıtım Sitesi
 
-Bu proje, HTML ve CSS kullanarak oluşturduğum basit bir kişisel tanıtım sitesidir. Bu site, hakkımda bilgi vermek ve projelerimi sergilemek amacıyla tasarlandı.
+Bu proje, HTML ve CSS kullanarak oluşturduğum basit bir kişisel tanıtım sitesidir. Bu site tamamen responsive özelliklere sahip olup, kişisel bilgi vermek ve projelerimi sergilemek amacıyla tasarlandı.
 
 ## Özellikler
 
@@ -27,6 +27,8 @@ Bu proje, HTML ve CSS kullanarak oluşturduğum basit bir kişisel tanıtım sit
 
 ## Ekran Görüntüsü
 
-![Kişisel Tanıtım Sitesi Ekran Görüntüsü](https://example.com/path/to/screenshot.png)
+![Kişisel Tanıtım Sitesi Ekran Görüntüsü](desktop.gif)
+
+![Kişisel Tanıtım Sitesi Responsive Ekran Görüntüsü](mobile.gif)
 
 😊
